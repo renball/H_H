@@ -1,0 +1,10 @@
+C:\Users\q\source\repos\graphic\x64\Debug\graphic.vcxproj.AssemblyReference.cache
+C:\Users\q\source\repos\graphic\x64\Debug\graphic.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\q\source\repos\graphic\x64\Debug\graphic.gr.resources
+C:\Users\q\source\repos\graphic\x64\Debug\graphic.vcxproj.GenerateResource.cache
+C:\Users\q\source\repos\graphic\x64\Debug\graphic.exe
+C:\Users\q\source\repos\Hodgking_Huxley\graphic\x64\Debug\graphic.vcxproj.AssemblyReference.cache
+C:\Users\q\source\repos\Hodgking_Huxley\graphic\x64\Debug\graphic.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\q\source\repos\Hodgking_Huxley\graphic\x64\Debug\graphic.gr.resources
+C:\Users\q\source\repos\Hodgking_Huxley\graphic\x64\Debug\graphic.vcxproj.GenerateResource.cache
+C:\Users\q\source\repos\Hodgking_Huxley\graphic\x64\Debug\graphic.exe

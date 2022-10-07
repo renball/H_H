@@ -1,0 +1,9 @@
+﻿  H_H.cpp
+C:\Users\q\source\repos\Hodgking_Huxley\H_H\H_H.cpp(13,24): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\q\source\repos\Hodgking_Huxley\H_H\H_H.cpp(16,26): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\q\source\repos\Hodgking_Huxley\H_H\H_H.cpp(17,23): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\q\source\repos\Hodgking_Huxley\H_H\H_H.cpp(70,17): warning C4101: yn_1: неиспользованная локальная переменная
+C:\Users\q\source\repos\Hodgking_Huxley\H_H\H_H.cpp(87,17): warning C4101: yn_1: неиспользованная локальная переменная
+C:\Users\q\source\repos\Hodgking_Huxley\H_H\H_H.cpp(104,17): warning C4101: yn_1: неиспользованная локальная переменная
+C:\Users\q\source\repos\Hodgking_Huxley\H_H\H_H.cpp(121,17): warning C4101: yn_1: неиспользованная локальная переменная
+  H_H.vcxproj -> C:\Users\q\source\repos\Hodgking_Huxley\graphic\x64\Debug\H_H.exe

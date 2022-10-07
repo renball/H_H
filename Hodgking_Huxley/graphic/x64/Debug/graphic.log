@@ -1,0 +1,9 @@
+﻿  gr.cpp
+C:\Users\q\source\repos\Hodgking_Huxley\graphic\gr.cpp(19,24): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\q\source\repos\Hodgking_Huxley\graphic\gr.cpp(22,26): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\q\source\repos\Hodgking_Huxley\graphic\gr.cpp(23,23): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\q\source\repos\Hodgking_Huxley\graphic\gr.cpp(77,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  gr.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  graphic.vcxproj -> C:\Users\q\source\repos\Hodgking_Huxley\graphic\x64\Debug\graphic.exe
